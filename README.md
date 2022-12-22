@@ -23,7 +23,7 @@ Coming soon.
 ## Specifications
 
 Type | Spec | Status
-:---------|:---------|
+:---------|:---------
 Model Name | Dell Precision M4700
 CPU | Intel® Core™ i7-3840QM
 Internal Graphics Card | Intel® HD Graphics 3000
