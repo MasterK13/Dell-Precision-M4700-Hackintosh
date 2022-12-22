@@ -23,4 +23,8 @@ AGPM (Apple Graphics Power Management) is loaded by default without any modifica
 
 ![AGPM](../Images/AGPM.png)
 
-**If both of these are as in the images, then your Power Management is fully set-up and working properly.**
+Note: AGPM requires fully working XCPM Power Management.
+
+## Conclusion
+
+If both CPU Power Management and GPU Power Management are as in the images shown above, then your Power Management is fully set-up and working properly.
