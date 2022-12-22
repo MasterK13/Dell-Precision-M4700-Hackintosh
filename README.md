@@ -60,6 +60,7 @@ Type | Info | Status
 AirDrop / Apple Continuity | Intel Wi-Fi cards do not support AirDrop, this can be fixed by replacing the Intel Wi-Fi card with an official Apple AirPort card like a BCM9460CD with an adapter to Mini PCIe. | ❌
 
 ## Documentation
+
 - [Power Management](/Documentation/PM.md)
 - [SD Card](/Documentation/SDXC.md)
 - [Replacing the Wi-Fi Card](/Documentation/Wi-Fi.md)
