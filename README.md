@@ -41,15 +41,15 @@ Audio | IDT 92HD93BXX
 
 Type | Status
 :---------|:----------
-CPU | ✅  
-Intel Ivy Bridge iGPU | ✅  
-NVIDIA Kepler GPU | ✅  
-Audio | ✅  
-Ethernet | ✅  
-Intel Wi-Fi | ✅  
+CPU | ✅
+Intel Ivy Bridge iGPU | ✅
+NVIDIA Kepler GPU | ✅
+Audio | ✅
+Ethernet | ✅
+Intel Wi-Fi | ✅
 USB Ports | ✅
 Battery/AC | ✅
-Shutdown/Reboot |✅  
+Shutdown/Reboot |✅
 
 ## What's not working
 
