@@ -26,8 +26,8 @@ Type | Specification
 :---------|:---------
 Model Name | Dell Precision M4700
 CPU | Intel® Core™ i7-3840QM
-Internal Graphics Card | Intel® HD Graphics 3000
-External Graphics Card | NVIDIA Quadro K1000M
+Internal Graphics Card | Intel® HD Graphics 3000 (Ivy Bridge)
+External Graphics Card | NVIDIA Quadro K1000M (Kepler)
 RAM | 8 GB 1600 MHz DDR3
 Wi-Fi | Intel® Centrino® Advanced-N 6205
 Ethernet | Intel® 82579LM Gigabit Ethernet
@@ -35,6 +35,9 @@ Audio | IDT 92HD93BXX
 
 ## macOS Update History
 
+- ✅ macOS Catalina 10.15.7
+- ✅ macOS Big Sur 11.6.7
+- ✅ macOS Monterey 12.6.1
 - ✅ macOS Ventura 13.1
 
 ## What's working
