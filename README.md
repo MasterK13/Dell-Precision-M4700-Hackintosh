@@ -22,7 +22,7 @@ Coming soon.
 
 ## Specifications
 
-Type | Spec | Status
+Type | Specification
 :---------|:---------
 Model Name | Dell Precision M4700
 CPU | Intel® Core™ i7-3840QM
