@@ -1,1 +1,5 @@
 ![New Apple Card](https://github.com/MasterK13/Dell-Precision-M4700-Hackintosh/blob/main/Images/New%20Apple%20card.jpg)
+![Old card](https://github.com/MasterK13/Dell-Precision-M4700-Hackintosh/blob/main/Images/Old%20card%20and%20the%20place%20for%20new%20one.jpg)
+![BT Removed](https://github.com/MasterK13/Dell-Precision-M4700-Hackintosh/blob/main/Images/BT%20removed.jpg)
+![Installed antennas](https://github.com/MasterK13/Dell-Precision-M4700-Hackintosh/blob/main/Images/Installed%20antennas.png)
+![Card installed](https://github.com/MasterK13/Dell-Precision-M4700-Hackintosh/blob/main/Images/Card%20installed.png)
