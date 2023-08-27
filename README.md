@@ -38,7 +38,7 @@ Audio | IDT 92HD93BXX
 - ✅ macOS Big Sur 11.6.7
 - ✅ macOS Monterey 12.6.1 (Requires OpenCore Legacy Patcher Root Patching)
 - ✅ macOS Ventura 13.1 (Requires OpenCore Legacy Patcher Root Patching)
-- ✅ macOS Sonoma 14.0 Beta (Requires OpenCore Legacy Patcher Root Patching)
+- ✅ macOS Sonoma 14.0 Beta (Requires OpenCore Legacy Patcher Root Patching,two new kext and some editing Kernel/Block and Kernel/Patch)
   
 Type | Status
 :---------|:----------
