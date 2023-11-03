@@ -69,6 +69,6 @@ AirDrop / Apple Continuity | Intel Wi-Fi cards do not support AirDrop, this can 
 - [Dortania](https://dortania.github.io) for their awesome guides.
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and most of the Kexts used.
-- [ExtremeXT](https://github.com/extremegrief1) for a lot of guidance and general help.
+- [ExtremeXT](https://github.com/extremegrief1) for guidance and help.
 - [yusufklncc](https://github.com/yusufklncc) for README template.
 - And anyone else that helped to develop and improve Hackintoshing.
